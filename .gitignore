@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.py[cod]
+.nicegui/
+.env
+.pytest_cache/
+*.log
