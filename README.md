@@ -83,3 +83,7 @@ Reference: [NiceGUI documentation](https://nicegui.io/documentation).
 
 Tests use NiceGUI's simulated user to exercise page loading, input validation,
 task creation, search, completion, deletion, CSV export, and reset on reload.
+
+## RStudio Community Edition POC
+
+See [the walkthrough](docs/rstudio-poc.md) to open NiceGUI.Rproj and run the ASGI app from RStudio's Terminal.
