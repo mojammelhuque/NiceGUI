@@ -87,3 +87,7 @@ task creation, search, completion, deletion, CSV export, and reset on reload.
 ## RStudio Community Edition POC
 
 See [the walkthrough](docs/rstudio-poc.md) to open NiceGUI.Rproj and run the ASGI app from RStudio's Terminal.
+
+## Publishing and hosting
+
+See [the publishing guide](docs/publishing.md) for the difference between RStudio Community Edition, GitHub, and Posit Connect; deployment prerequisites; and office or cloud hosting options. The current POC is verified locally and has not been published to a hosting service.

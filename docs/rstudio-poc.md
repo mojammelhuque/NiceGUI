@@ -79,3 +79,7 @@ access and publishing permission on Connect; this local POC does not bypass that
 - [Connect FastAPI publishing](https://docs.posit.co/connect/user/fastapi/)
 
 [Back to README](../README.md)
+
+## Ready to publish?
+
+Read [Publishing and hosting](publishing.md) for the required destination, server access, and deployment verification. Running this POC in Community Edition does not create a hosted application.
